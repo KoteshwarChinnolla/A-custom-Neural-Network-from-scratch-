@@ -1,9 +1,9 @@
 ﻿# A-custom-Neural-Network-from-scratch
 
 This is divided into mainly 3 parts
--- Machine Learning
--- using Keras
--- using a custom Model
+  -- Machine Learning
+  -- using Keras
+  -- using a custom Model
 
 creating a Custom Model is the main aim of this Repo
 
